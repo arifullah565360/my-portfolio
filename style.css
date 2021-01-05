@@ -17,7 +17,8 @@ p{
     width: 40%;
     float: left;
     margin-left :5%;
-    padding-left: 2%;  
+    padding-left: 2%; 
+     
 }
 .div-width img{
     Width:100%;
@@ -51,7 +52,10 @@ h1{
     margin: 1px 500px 1px 500px;
     border-radius: 100px;
 }
-.last{
-    width:40%;
-    float: left;
+.single-mission{
+    box-shadow: 10px 10px 40px gray ;
+    border-radius: 10px;
+    height:60%;
+    margin:2%;
+    background-color: greenyellow;
 }
